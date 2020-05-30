@@ -1,2 +1,4 @@
 .idea/
 data/
+input/
+*/__pycache__/
